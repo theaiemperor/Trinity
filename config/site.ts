@@ -5,7 +5,7 @@ export const siteConfig = {
   longDescription: "Connect your WhatsApp and Instagram accounts, ingest your product catalog, and let Trinity's AI bot handle customer queries, support, and sales 24/7. Save time, increase conversions, and reduce support load with our advanced conversational automation.",
   url: "https://trinity-demo.com",
   logoText: "TRINITY",
-  logoUrl: "/logo.png",
+  logoUrl: "/Trinity/logo.png",
   brandColors: {
     primary: "#0ea5e9", // Tailwind sky-500
     accent: "#8b5cf6", // Tailwind violet-500
