@@ -3,9 +3,9 @@ export const siteConfig = {
   tagline: "Automate your conversational commerce.",
   shortDescription: "Trinity is a business automation platform that turns your WhatsApp and Instagram into an intelligent sales assistant.",
   longDescription: "Connect your WhatsApp and Instagram accounts, ingest your product catalog, and let Trinity's AI bot handle customer queries, support, and sales 24/7. Save time, increase conversions, and reduce support load with our advanced conversational automation.",
-  url: "https://trinity-demo.com",
+  url: "https://www.trinityy.in",
   logoText: "TRINITY",
-  logoUrl: "/Trinity/logo.png",
+  logoUrl: "/logo.png",
   brandColors: {
     primary: "#0ea5e9", // Tailwind sky-500
     accent: "#8b5cf6", // Tailwind violet-500
